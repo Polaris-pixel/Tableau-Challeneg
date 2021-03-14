@@ -1,2 +1,2 @@
 # Tableau-Challenge
-![peakHours](Images/peakHours.png)
+![peakHours](Images/peakHours.PNG)
